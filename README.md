@@ -13,7 +13,7 @@ Have fun Enjoy !
 
 **-Les couleurs :** Noir,Rouge,Gris. (Les couleurs du logo)
 
-**-Logo :** ![Logo Site](www/public/assets/img/Logo.jpg)
+**-Logo :** ![Logo Site](www/public/assets/img/Logo.jpg =50x50)
 
 **-Nombres pages :** 6
 
