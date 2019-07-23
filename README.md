@@ -2,6 +2,7 @@
 
 RocketLeague-RedSky.fr est un site pour les joueurs de RocketLeague.Vous pourrez trouvez des News et un system de 
 Findteam pour trouvez vos coéquipier.
+Une connexion, une inscription, un contact et un systeme de DON pour nous soutenir.
 Have fun Enjoy !
 
 
