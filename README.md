@@ -34,17 +34,17 @@ Have fun Enjoy !
 
  **-News :**  -Ajout de New en BDD.
 
-**-FindTeam :**  -Plusieurs catégories selon le rank de l'utilisateurs 
-*(Rookie(1,2,3)),  (1 2 3 correspond a la division du rank cibler)*
-*(Bronze(1,2,3)),*
-*(Silver(1,2,3)),*
-*(Or(1,2,3)),*
-*(Platine(1,2,3)),*
-*(Diamand(1,2,3)),*
-*(Champion(1,2,3)),*
-*(Grand Champion)*
-                -Insertion de l'utilisateur dans le groupe rank choisit
-                -Si deux ou trois joueurs (selon le mode de jeu) on compléter le groupe alors ->
+**-FindTeam :**  -Plusieurs catégories selon le rank de l'utilisateurs </br>
+*(Rookie(1,2,3)),  (1 2 3 correspond a la division du rank cibler)* </br>
+*(Bronze(1,2,3)),* </br>
+*(Silver(1,2,3)),* </br>
+*(Or(1,2,3)),* </br>
+*(Platine(1,2,3)),* </br>
+*(Diamand(1,2,3)),* </br>
+*(Champion(1,2,3)),* </br>
+*(Grand Champion)* </br>
+                -Insertion de l'utilisateur dans le groupe rank choisit </br> 
+                -Si deux ou trois joueurs (selon le mode de jeu) on compléter le groupe alors -> </br>
                 -Requete invitation Steam pour les deux joueurs (pour lancer la partie)
 
 **-Don :** - Page simple qui redirigeras sur un paypal pour un Don.                
