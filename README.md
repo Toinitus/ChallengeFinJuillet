@@ -17,7 +17,7 @@ Have fun Enjoy !
 
 **-Nombres pages :** 6
 
-**-Nom des pages :** Home, Incripstion, Connexion, Contact, News, FindTeam, Don
+**-Nom des pages :** Home, Inscription, Connexion, Contact, News, FindTeam, Don
 
 **-<URL des futures pages :** /home, /subscrite, /login, /contact, /news, /findteam, /givegift.
 
