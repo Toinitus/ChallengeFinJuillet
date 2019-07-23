@@ -21,7 +21,7 @@ Have fun Enjoy !
 
 **-URL des futures pages :** /home, /subscrite, /login, /contact, /news, /findteam, /givegift.
 
-##**-*Future fonctionalité du site* :** 
+## **-*Future fonctionalité du site* :** 
 
 **-Inscription :** -Ajout de l'utilisateur en BDD
 
