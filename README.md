@@ -21,9 +21,7 @@ Have fun Enjoy !
 
 **-URL des futures pages :** /home, /subscrite, /login, /contact, /news, /findteam, /givegift.
 
-**-*Future fonctionalité du site* :** 
-
-**-Home :** -Page d'accueil
+##**-*Future fonctionalité du site* :** 
 
 **-Inscription :** -Ajout de l'utilisateur en BDD
 
@@ -35,7 +33,7 @@ Have fun Enjoy !
  **-News :**  -Ajout de New en BDD.
 
 **-FindTeam :**  -Plusieurs catégories selon le rank de l'utilisateurs </br>
-*(Rookie(1,2,3)),  (1 2 3 correspond a la division du rank cibler)* </br>
+**(1 2 3 correspond a la division du rank cibler)** </br>
 *(Bronze(1,2,3)),* </br>
 *(Silver(1,2,3)),* </br>
 *(Or(1,2,3)),* </br>
@@ -43,8 +41,11 @@ Have fun Enjoy !
 *(Diamand(1,2,3)),* </br>
 *(Champion(1,2,3)),* </br>
 *(Grand Champion)* </br>
-                -Insertion de l'utilisateur dans le groupe rank choisit </br> 
-                -Si deux ou trois joueurs (selon le mode de jeu) on compléter le groupe alors -> </br>
-                -Requete invitation Steam pour les deux joueurs (pour lancer la partie)
+![Ranks Illustration](www/public/assets/img/Ranks.jpg)
+                -Création d'un groupe par l'utilisateur, ou choisir de rejoindre un groupe déjà existant </br>
+                -Insertion de l'utilisateur dans le groupe rank choisit </br>
+                -Chat online du groupe entre les joueurs pour l'accord ou non de leurs objectifs </br> 
+                -Si deux ou trois joueurs (selon le mode de jeu) on compléter le groupe, alors attendre la validation de tous les joueurs du groupe </br>
+                -Envoie d'une requete automatique invitation Steam pour que les deux joueurs puissent lancez leurs parties
 
 **-Don :** - Page simple qui redirigeras sur un paypal pour un Don.                
