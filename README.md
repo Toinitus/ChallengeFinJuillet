@@ -62,3 +62,6 @@ Have fun Enjoy !
 ![Maquettes menu déroulant connecter](www/public/assets/img/Deroulantconnecter.jpg)
 ![Maquettes connexion](www/public/assets/img/connexion.jpg)
 ![Maquettes inscription](www/public/assets/img/inscription.jpg)
+![Maquettes contact](www/public/assets/img/contact.jpg)
+![Maquettes FindTeamPasGroupe](www/public/assets/img/FindTeamPasGroupe.jpg)
+![Maquettes FindTeamAvecGroupe](www/public/assets/img/FindTeamAvecGroupe.jpg)
