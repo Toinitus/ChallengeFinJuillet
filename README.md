@@ -21,7 +21,7 @@ Have fun Enjoy !
 
 **-Nom des pages :** Home, Inscription, Connexion, Contact, News, FindTeam, Don
 
-**-URL des futures pages :** /home, /subscrite, /login, /contact, /news, /findteam, /givegift.
+**-URL des futures pages :** /home, /subscribe, /login, /contact, /news, /findteam, /givegift.
 
 ## **-*Future fonctionalité du site* :** 
 
@@ -50,4 +50,11 @@ Have fun Enjoy !
                 -Si deux ou trois joueurs (selon le mode de jeu) on compléter le groupe, alors attendre la validation de tous les joueurs du groupe </br>
                 -Envoie d'une requete automatique invitation Steam pour que les deux joueurs puissent lancez leurs parties
 
-**-Don :** - Page simple qui redirigeras sur un paypal pour un Don.                
+**-Don :** - Page simple qui redirigeras sur un paypal pour un Don. 
+
+
+
+
+# Maquettes
+
+![Maquettes Accueil et menu déroulant](www/public/assets/img/Maquette1.xcf)
