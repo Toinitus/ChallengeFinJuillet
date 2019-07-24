@@ -59,4 +59,4 @@ Have fun Enjoy !
 
 ![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
 ![Maquettes menu déroulant](www/public/assets/img/Maquette2.jpg)
-![Maquettes menu déroulant connecter](www/public/assets/img/Maquette2.png)
+![Maquettes menu déroulant connecter](www/public/assets/img/Maquette2.jpg)
