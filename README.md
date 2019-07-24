@@ -57,4 +57,5 @@ Have fun Enjoy !
 
 # Maquettes
 
-![Maquettes Accueil et menu déroulant](www/public/assets/img/Maquette1.jpg)
+![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
+![Maquettes menu déroulant](www/public/assets/img/Maquette2.jpg)
