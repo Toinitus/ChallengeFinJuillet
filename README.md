@@ -55,8 +55,8 @@ Have fun Enjoy !
 
 
 
-# Maquettes
+# Maquettes mobil first
 
 ![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
 ![Maquettes menu déroulant](www/public/assets/img/Maquette2.jpg)
-ngddggg,
+![Maquettes menu déroulant connecter](www/public/assets/img/Maquette2.png)
