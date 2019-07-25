@@ -78,6 +78,8 @@ Have fun Enjoy !
 ![Maquettes FindTeamAvecGroupe](www/public/assets/img/FindTeamAvecGroupe.jpg)
 ## Page de don
 ![Maquettes Don](www/public/assets/img/Don.jpg)
+## Page footer default
+![Maquettes footer](www/public/assets/img/footerDefault.jpg)
 
 # Maquettes full screen
 
@@ -86,5 +88,7 @@ Have fun Enjoy !
 
 # Precision a donner
 
--Le Header dans la version mobile et full screen va suivre l'utilisateur lorsque celui ci va scroll
--Le titre du site est un boutton home
+-Le Header dans la version mobile et full screen va suivre l'utilisateur lorsque celui ci va scroll</br>
+-Le titre du site est un boutton home</br>
+-Rajout boutton déja inscrit ? sur la page inscription</br>
+-Rajout boutton pas encore inscrit ? sur la page connexion
