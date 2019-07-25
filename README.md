@@ -55,8 +55,12 @@ Have fun Enjoy !
 
 
 
-# Maquettes mobil first
-## Vue de la home avec des news (texte et image)
+# Maquettes mobile first
+## Vue du haut de la page Home connecter
+![Maquette Accueil co](www/public/assets/img/VueAccueilHautCo.jpg)
+## Vue du haut de la page Home deconnecter
+![Maquette Accueil deco](www/public/assets/img/VueAccueilHautDeco.jpg)
+## Vue de la home 'une fois scroll' avec des news (texte et image)
 ![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
 ## Burger menu ouvert une fois cliquer
 ![Maquettes menu déroulant](www/public/assets/img/Maquette2.jpg)
@@ -74,3 +78,13 @@ Have fun Enjoy !
 ![Maquettes FindTeamAvecGroupe](www/public/assets/img/FindTeamAvecGroupe.jpg)
 ## Page de don
 ![Maquettes Don](www/public/assets/img/Don.jpg)
+
+# Maquettes full screen
+
+
+
+
+# Precision a donner
+
+-Le Header dans la version mobile et full screen va suivre l'utilisateur lorsque celui ci va scroll
+-Le titre du site est un boutton home
