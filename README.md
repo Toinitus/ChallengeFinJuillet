@@ -56,10 +56,10 @@ Have fun Enjoy !
 
 
 # Maquettes mobile first
-## Vue du haut de la page Home connecter
-![Maquette Accueil co](www/public/assets/img/VueAccueilHautCo.jpg)
 ## Vue du haut de la page Home deconnecter
 ![Maquette Accueil deco](www/public/assets/img/VueAccueilHautDeco.jpg)
+## Vue du haut de la page Home connecter
+![Maquette Accueil co](www/public/assets/img/VueAccueilHautCo.jpg)
 ## Vue de la home 'une fois scroll' avec des news (texte et image)
 ![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
 ## Burger menu ouvert une fois cliquer
@@ -79,13 +79,18 @@ Have fun Enjoy !
 ## Page de don
 ![Maquettes Don](www/public/assets/img/Don.jpg)
 ## Page footer default
-![Maquettes footer](www/public/assets/img/footerDefault.jpg)
+![Maquettes footer](www/public/assets/img/footerDefault.jpg)</br>
+
+
+
 
 # Maquettes full screen
 ## Vue du haut de la page home deconnecter
 ![Maquette Full Accueil deco](www/public/assets/img/FullAccueilHautDeco.jpg)
 ## Vue du haut de la page home connecter
 ![Maquette Full Accueil co](www/public/assets/img/FullAccueilHautCo.jpg)
+## Vue de la home une fois scroll
+![Maquette Full Accueil scroll](www/public/assets/img/FullVueHomeScroll.jpg)
 
 
 # Precision a donner
