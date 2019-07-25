@@ -82,8 +82,8 @@ Have fun Enjoy !
 ![Maquettes footer](www/public/assets/img/footerDefault.jpg)
 
 # Maquettes full screen
-
-
+## Vue du haut de la page home deconnecter
+![Maquette Full Accueil deco](www/public/assets/img/FullAccueilHautDeco.jpg)
 
 
 # Precision a donner
@@ -91,4 +91,5 @@ Have fun Enjoy !
 -Le Header dans la version mobile et full screen va suivre l'utilisateur lorsque celui ci va scroll</br>
 -Le titre du site est un boutton home</br>
 -Rajout boutton déja inscrit ? sur la page inscription</br>
--Rajout boutton pas encore inscrit ? sur la page connexion
+-Rajout boutton pas encore inscrit ? sur la page connexion</br>
+-Rajout boutton deconnexion dans le burger une fois connecter</br>
