@@ -8,5 +8,5 @@ $app->setStartTime();
 $app::load();
 
 $app->getRouter($basePath)
-    ->get('/blog', 'Post#all', 'home')
+    ->get('/', 'news#all', 'news')
     ->run();

@@ -56,13 +56,21 @@ Have fun Enjoy !
 
 
 # Maquettes mobil first
-
+## Vue de la home avec des news (texte et image)
 ![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
+## Burger menu ouvert une fois cliquer
 ![Maquettes menu déroulant](www/public/assets/img/Maquette2.jpg)
+## Burger menu ouvert une fois connecter et cliquer
 ![Maquettes menu déroulant connecter](www/public/assets/img/Deroulantconnecter.jpg)
+## Page connexion
 ![Maquettes connexion](www/public/assets/img/connexion.jpg)
+## Page inscription
 ![Maquettes inscription](www/public/assets/img/inscription.jpg)
+## Page contact
 ![Maquettes contact](www/public/assets/img/Contact.jpg)
+## Page de recherche d'equipe quand on a pas de groupe
 ![Maquettes FindTeamPasGroupe](www/public/assets/img/FindTeamPasGroupe.jpg)
+## Page de recherche d'equipe quand on a trouver le groupe
 ![Maquettes FindTeamAvecGroupe](www/public/assets/img/FindTeamAvecGroupe.jpg)
+## Page de don
 ![Maquettes Don](www/public/assets/img/Don.jpg)
