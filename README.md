@@ -84,6 +84,8 @@ Have fun Enjoy !
 # Maquettes full screen
 ## Vue du haut de la page home deconnecter
 ![Maquette Full Accueil deco](www/public/assets/img/FullAccueilHautDeco.jpg)
+## Vue du haut de la page home connecter
+![Maquette Full Accueil co](www/public/assets/img/FullAccueilHautCo.jpg)
 
 
 # Precision a donner
