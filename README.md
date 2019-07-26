@@ -92,9 +92,9 @@ Have fun Enjoy !
 ## Vue de la home une fois scroll
 ![Maquette Full Accueil scroll](www/public/assets/img/FullVueHomeScroll.jpg)
 ## Page de connexion
-![Maquette Full Accueil scroll](www/public/assets/img/FullLogin.jpg)
+![Maquette Full Login](www/public/assets/img/FullLogin.jpg)
 ## Page Inscription
-
+![Maquette Full Inscription](www/public/assets/img/FullInscription.jpg)
 
 
 # Precision a donner
