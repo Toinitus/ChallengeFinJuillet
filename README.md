@@ -99,8 +99,10 @@ Have fun Enjoy !
 ![Maquette Full Contact](www/public/assets/img/FullContact.jpg)
 ## Page de recherche d'equipe
 ![Maquette Full Pas d'equipe](www/public/assets/img/FullPasEquipe.jpg)
-## Page de de l'equipe
+## Page de  l'equipe
 ![Maquette Full equipe](www/public/assets/img/FullGroupe.jpg)
+## Page de don
+![Maquette Full don](www/public/assets/img/FullDon.jpg)
 
 
 
