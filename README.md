@@ -107,7 +107,6 @@ Have fun Enjoy !
 ![Maquette Full Footer](www/public/assets/img/FullFooter.jpg)
 
 
-
 # Precision a donner
 
 -Le Header dans la version mobile et full screen va suivre l'utilisateur lorsque celui ci va scroll</br>
@@ -115,4 +114,4 @@ Have fun Enjoy !
 -Rajout boutton déja inscrit ? sur la page inscription</br>
 -Rajout boutton pas encore inscrit ? sur la page connexion</br>
 -Rajout boutton deconnexion dans le burger une fois connecter</br>
--Les boutons du footer don et nous contactez /deconnexion celon la version de l'ecran seront bien évidemment changer par connexion et inscription lorsque l'utilisateur seras offline
+-Les boutons du footer don et nous contactez /deconnexion celon la version de l'ecran seront bien évidemment changer par connexion et inscription lorsque l'utilisateur seras offline.
