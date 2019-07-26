@@ -97,7 +97,8 @@ Have fun Enjoy !
 ![Maquette Full Inscription](www/public/assets/img/FullInscription.jpg)
 ## Page Contact
 ![Maquette Full Contact](www/public/assets/img/FullContact.jpg)
-
+## Page de recherche d'equipe
+![Maquette Full Pas d'equipe](www/public/assets/img/FullPasEquipe.jpg)
 
 
 
