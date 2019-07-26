@@ -57,21 +57,21 @@ Have fun Enjoy !
 
 # Maquettes mobile first
 ## Vue du haut de la page Home deconnecter
-![Maquette Accueil deco](www/public/assets/img/VueAccueilHautDeco.jpg)
+![Maquette Accueil Deco](www/public/assets/img/VueAccueilHautDeco.jpg)
 ## Vue du haut de la page Home connecter
-![Maquette Accueil co](www/public/assets/img/VueAccueilHautCo.jpg)
+![Maquette Accueil Co](www/public/assets/img/VueAccueilHautCo.jpg)
 ## Vue de la home 'une fois scroll' avec des news (texte et image)
-![Maquettes accueil](www/public/assets/img/Maquette1.jpg)
+![Maquettes Accueil](www/public/assets/img/Maquette1.jpg)
 ## Burger menu ouvert une fois cliquer
-![Maquettes menu déroulant](www/public/assets/img/Maquette2.jpg)
+![Maquettes Menu Déroulant](www/public/assets/img/Maquette2.jpg)
 ## Burger menu ouvert une fois connecter et cliquer
-![Maquettes menu déroulant connecter](www/public/assets/img/Deroulantconnecter.jpg)
+![Maquettes Menu Déroulant Connecter](www/public/assets/img/Deroulantconnecter.jpg)
 ## Page connexion
-![Maquettes connexion](www/public/assets/img/connexion.jpg)
+![Maquettes Connexion](www/public/assets/img/connexion.jpg)
 ## Page inscription
-![Maquettes inscription](www/public/assets/img/inscription.jpg)
+![Maquettes Inscription](www/public/assets/img/inscription.jpg)
 ## Page contact
-![Maquettes contact](www/public/assets/img/Contact.jpg)
+![Maquettes Contact](www/public/assets/img/Contact.jpg)
 ## Page de recherche d'equipe quand on a pas de groupe
 ![Maquettes FindTeamPasGroupe](www/public/assets/img/FindTeamPasGroupe.jpg)
 ## Page de recherche d'equipe quand on a trouver le groupe
@@ -79,18 +79,18 @@ Have fun Enjoy !
 ## Page de don
 ![Maquettes Don](www/public/assets/img/Don.jpg)
 ## Page footer default
-![Maquettes footer](www/public/assets/img/footerDefault.jpg)</br>
+![Maquettes Footer](www/public/assets/img/footerDefault.jpg)</br>
 
 
 
 
 # Maquettes full screen
 ## Vue du haut de la page home deconnecter
-![Maquette Full Accueil deco](www/public/assets/img/FullAccueilHautDeco.jpg)
+![Maquette Full Accueil Deco](www/public/assets/img/FullAccueilHautDeco.jpg)
 ## Vue du haut de la page home connecter
-![Maquette Full Accueil co](www/public/assets/img/FullAccueilHautCo.jpg)
+![Maquette Full Accueil Co](www/public/assets/img/FullAccueilHautCo.jpg)
 ## Vue de la home une fois scroll
-![Maquette Full Accueil scroll](www/public/assets/img/FullVueHomeScroll.jpg)
+![Maquette Full Accueil Scroll](www/public/assets/img/FullVueHomeScroll.jpg)
 ## Page de connexion
 ![Maquette Full Login](www/public/assets/img/FullLogin.jpg)
 ## Page Inscription
@@ -98,12 +98,13 @@ Have fun Enjoy !
 ## Page Contact
 ![Maquette Full Contact](www/public/assets/img/FullContact.jpg)
 ## Page de recherche d'equipe
-![Maquette Full Pas d'equipe](www/public/assets/img/FullPasEquipe.jpg)
+![Maquette Full Pas d'Equipe](www/public/assets/img/FullPasEquipe.jpg)
 ## Page de  l'equipe
-![Maquette Full equipe](www/public/assets/img/FullGroupe.jpg)
+![Maquette Full Equipe](www/public/assets/img/FullGroupe.jpg)
 ## Page de don
-![Maquette Full don](www/public/assets/img/FullDon.jpg)
-
+![Maquette Full Don](www/public/assets/img/FullDon.jpg)
+## Page du footer
+![Maquette Full Footer](www/public/assets/img/FullFooter.jpg)
 
 
 
@@ -114,3 +115,4 @@ Have fun Enjoy !
 -Rajout boutton déja inscrit ? sur la page inscription</br>
 -Rajout boutton pas encore inscrit ? sur la page connexion</br>
 -Rajout boutton deconnexion dans le burger une fois connecter</br>
+-Les boutons du footer don et nous contactez /deconnexion celon la version de l'ecran seront bien évidemment changer par connexion et inscription lorsque l'utilisateur seras offline
