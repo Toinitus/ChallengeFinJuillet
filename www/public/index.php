@@ -9,4 +9,10 @@ $app::load();
 
 $app->getRouter($basePath)
     ->get('/', 'news#all', 'news')
+    ->get('/', 'news#all', 'news')
+    ->get('/', 'news#all', 'news')
+    ->get('/', 'news#all', 'news')
+    ->get('/', 'news#all', 'news')
+    ->get('/', 'news#all', 'news')
+    ->get('/', 'news#all', 'news')
     ->run();
