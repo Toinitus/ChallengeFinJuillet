@@ -115,3 +115,6 @@ Have fun Enjoy !
 -Rajout boutton pas encore inscrit ? sur la page connexion</br>
 -Rajout boutton deconnexion dans le burger une fois connecter</br>
 -Les boutons du footer don et nous contactez /deconnexion celon la version de l'ecran seront bien évidemment changer par connexion et inscription lorsque l'utilisateur seras offline.
+
+# UML
+![UML](www/public/assets/img/UML.jpg)
