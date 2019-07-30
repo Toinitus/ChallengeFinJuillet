@@ -61,51 +61,6 @@ $pdo->exec('SET FOREIGN_KEY_CHECKS = 1');
  * 
  */
 
-echo "[";
-$etape = $pdo->exec("CREATE TABLE post(
-            id INT UNSIGNED NOT NULL AUTO_INCREMENT,
-            name VARCHAR(255) NOT NULL,
-            slug VARCHAR(255) NOT NULL,
-            content TEXT(650000) NOT NULL,
-            created_at DATETIME NOT NULL,
-            PRIMARY KEY(id)
-        )");
-echo "||";
-$etape = $pdo->exec("CREATE TABLE category(
-            id INT UNSIGNED NOT NULL AUTO_INCREMENT,
-            name VARCHAR(255) NOT NULL,
-            slug VARCHAR(255) NOT NULL,
-            PRIMARY KEY(id)
-        )");
-echo "||";
-$pdo->exec("CREATE TABLE post_category(
-            post_id INT UNSIGNED NOT NULL,
-            category_id INT UNSIGNED NOT NULL,
-            PRIMARY KEY(post_id, category_id),
-            CONSTRAINT fk_post
-                FOREIGN KEY(post_id)
-                REFERENCES post(id)
-                ON DELETE CASCADE
-                ON UPDATE RESTRICT,
-            CONSTRAINT fk_category
-                FOREIGN KEY(category_id)
-                REFERENCES category(id)
-                ON DELETE CASCADE
-                ON UPDATE RESTRICT
-        )");
-echo "||";
-
-$pdo->exec("CREATE TABLE `beer` (
-    `id` int(11) NOT NULL AUTO_INCREMENT,
-    `title` varchar(255) NOT NULL,
-    `img` text NOT NULL,
-    `content` longtext NOT NULL,
-    `price_ht` float NOT NULL,
-    `stock` int(11) NULL,
-    PRIMARY KEY(id)
-  )");
-  echo '||';
-
   $pdo->exec("CREATE TABLE `order` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
     `user_infos_id` int(11) NOT NULL,
@@ -118,15 +73,7 @@ $pdo->exec("CREATE TABLE `beer` (
     PRIMARY KEY(id)
   )");
 
-$pdo->exec("CREATE TABLE `order_line` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `user_id` int(11) NOT NULL,
-  `beer_id` int(11) NOT NULL,
-  `beer_price_ht` float NOT NULL,
-  `beer_qty` int(11) NOT NULL,
-  `token` varchar(10) NOT NULL,
-  PRIMARY KEY(id)
-)");
+
 
 $pdo->exec("CREATE TABLE `user` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
