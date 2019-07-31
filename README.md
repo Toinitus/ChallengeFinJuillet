@@ -17,11 +17,11 @@ Have fun Enjoy !
 **-Logo :** </br>
 ![Logo Site](www/public/assets/img/Logo.jpg)
 
-**-Nombres pages :** 6
+**-Nombres pages :** 7
 
-**-Nom des pages :** Home, Inscription, Connexion, Contact, News, FindTeam, Don
+**-Nom des pages :** Home, Inscription, Connexion, Contact, MentionLegales, FindTeam, Team, Don
 
-**-URL des futures pages :** /home, /subscribe, /login, /contact, /news, /findteam, /givegift.
+**-URL des futures pages :** /home, /subscribe, /login, /contact, /mentionlegales, /findteam, /team /givegift
 
 ## **-*Future fonctionalité du site* :** 
 
@@ -31,8 +31,6 @@ Have fun Enjoy !
 
 **-Contact :** -Récupération des données utilisateurs en BDD
                -Envoie de mail a l'entreprise du site.
-
- **-News :**  -Ajout de New en BDD.
 
 **-FindTeam :**  -Plusieurs catégories selon le rank de l'utilisateurs </br>
 **(1 2 3 correspond a la division du rank cibler)** </br>
@@ -75,7 +73,7 @@ Have fun Enjoy !
 ## Page de recherche d'equipe quand on a pas de groupe
 ![Maquettes FindTeamPasGroupe](www/public/assets/img/FindTeamPasGroupe.jpg)
 ## Page de recherche d'equipe quand on a trouver le groupe
-![Maquettes FindTeamAvecGroupe](www/public/assets/img/FindTeamAvecGroupe.jpg)
+![Maquettes Team](www/public/assets/img/FindTeamAvecGroupe.jpg)
 ## Page de don
 ![Maquettes Don](www/public/assets/img/Don.jpg)
 ## Page footer default

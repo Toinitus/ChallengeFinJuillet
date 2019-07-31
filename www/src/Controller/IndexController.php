@@ -4,8 +4,8 @@ namespace App\Controller;
 
 use Core\Controller\Controller;
 
-class NewsController extends Controller{
+class IndexController extends Controller{
     public function all(){
-        return $this->render("news");
+        return $this->render("index");
     }
 }
