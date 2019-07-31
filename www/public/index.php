@@ -10,12 +10,13 @@ $app::load();
 $app->getRouter($basePath)
 //Route en get
     ->get('/home', 'index#all', 'index')
-    ->get('/mentionlegales', 'mentionLegales#all', 'mentionLegales')
-    ->get('/givegift', 'giveGift#all', 'giveGift')
+    ->get('/mentionlegales', 'index#legales', 'mentionLegales')
+    ->get('/givegift', 'index#gift', 'giveGift')
 
 //Route en get post 'match'    
     ->match('/subscribe', 'user#subscribe', 'subscribe')
     ->match('/login', 'user#login', 'login')
-    ->match('/contact', 'contact#all', 'contact')
-    ->match('/findteam', 'findTeam#all', 'findTeam')
+    ->match('/contact', 'user#contact', 'contact')
+    ->match('/findteam', 'FindTeam#rechercheequipe', 'findTeam')
+    ->match('/team', 'FindTeam#equipe', 'team')
     ->run();

@@ -15,5 +15,8 @@ class UserController extends Controller{
         return $this->render("user/subscribe");
     }
 
+    public function contact(){
+        return $this->render("user/contact");
+    }
 
 }
