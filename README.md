@@ -21,7 +21,7 @@ Have fun Enjoy !
 
 **-Nom des pages :** Home, Inscription, Connexion, Contact, MentionLegales, FindTeam, Team, Don
 
-**-URL des futures pages :** /home, /subscribe, /login, /contact, /mentionlegales, /findteam, /team /givegift
+**-URL des futures pages :** /home, /subscribe, /login, /contact, /mentionlegales, /findteam, /team, /givegift
 
 ## **-*Future fonctionalité du site* :** 
 
@@ -115,4 +115,5 @@ Have fun Enjoy !
 -Les boutons du footer don et nous contactez /deconnexion celon la version de l'ecran seront bien évidemment changer par connexion et inscription lorsque l'utilisateur seras offline.
 
 # UML
+## diagramme uml
 ![UML](www/public/assets/img/UML.jpg)
