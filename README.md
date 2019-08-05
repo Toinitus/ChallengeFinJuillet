@@ -59,7 +59,7 @@ Have fun Enjoy !
 ## Vue du haut de la page Home connecter
 ![Maquette Accueil Co](www/public/assets/img/VueAccueilHautCo.jpg)
 ## Vue de la home 'une fois scroll' avec des news (texte et image)
-![Maquettes Accueil](www/public/assets/img/Maquette1.jpg)
+![Maquettes Accueil](www/public/assets/img/News.jpg)
 ## Burger menu ouvert une fois cliquer
 ![Maquettes Menu Déroulant](www/public/assets/img/Maquette2.jpg)
 ## Burger menu ouvert une fois connecter et cliquer
