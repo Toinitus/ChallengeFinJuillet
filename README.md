@@ -70,7 +70,7 @@ Have fun Enjoy !
 ![Maquettes Inscription](www/public/assets/img/Inscription.jpg)
 ## Page contact
 ![Maquettes Contact](www/public/assets/img/Contact.jpg)
-## Page de recherche d'equipe quand on a pas de group
+## Page de recherche d'equipe quand on a pas de groupe
 ![Maquettes FindTeamPasGroupe](www/public/assets/img/FindTeamPasGroupe.jpg)
 ## Page de recherche d'equipe quand on a trouver le groupe
 ![Maquettes Team](www/public/assets/img/FindTeamAvecGroupe.jpg)
