@@ -3,8 +3,14 @@
 namespace App\Controller;
 
 use Core\Controller\Controller;
+use Core\Controller\FormController;
 
 class UserController extends Controller{
+
+    public function __construct()
+    {
+        $this->loadModel('user');
+    }
     
     public function login(){
         return $this->render("user/login");

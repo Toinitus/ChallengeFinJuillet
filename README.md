@@ -108,7 +108,7 @@ Have fun Enjoy !
 # Precision a donner
 
 -Le Header dans la version mobile et full screen va suivre l'utilisateur lorsque celui ci va scroll</br>
--Le titre du site est un boutton home</br>
+-Le titre du site est un boutton home et sera réadapter a l'ecriture du logo </br>
 -Rajout boutton déja inscrit ? sur la page inscription</br>
 -Rajout boutton pas encore inscrit ? sur la page connexion</br>
 -Rajout boutton deconnexion dans le burger une fois connecter</br>
