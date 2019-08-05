@@ -65,9 +65,9 @@ Have fun Enjoy !
 ## Burger menu ouvert une fois connecter 
 ![Maquettes Menu Déroulant Connecter](www/public/assets/img/BurgerCo.jpg)
 ## Page connexion
-![Maquettes Connexion](www/public/assets/img/connexion.jpg)
+![Maquettes Connexion](www/public/assets/img/Connexion.jpg)
 ## Page inscription
-![Maquettes Inscription](www/public/assets/img/inscription.jpg)
+![Maquettes Inscription](www/public/assets/img/Inscription.jpg)
 ## Page contact
 ![Maquettes Contact](www/public/assets/img/Contact.jpg)
 ## Page de recherche d'equipe quand on a pas de groupe
