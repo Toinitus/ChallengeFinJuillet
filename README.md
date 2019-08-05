@@ -60,9 +60,9 @@ Have fun Enjoy !
 ![Maquette Accueil Co](www/public/assets/img/VueAccueilHautCo.jpg)
 ## Vue de la home 'une fois scroll' avec des news (texte et video)
 ![Maquettes Accueil](www/public/assets/img/News.jpg)
-## Burger menu ouvert une fois cliquer
+## Burger menu ouvert
 ![Maquettes Menu Déroulant](www/public/assets/img/BurgerDeco.jpg)
-## Burger menu ouvert une fois connecter et cliquer
+## Burger menu ouvert une fois connecter 
 ![Maquettes Menu Déroulant Connecter](www/public/assets/img/BurgerCo.jpg)
 ## Page connexion
 ![Maquettes Connexion](www/public/assets/img/connexion.jpg)
