@@ -63,7 +63,7 @@ Have fun Enjoy !
 ## Burger menu ouvert une fois cliquer
 ![Maquettes Menu Déroulant](www/public/assets/img/BurgerDeco.jpg)
 ## Burger menu ouvert une fois connecter et cliquer
-![Maquettes Menu Déroulant Connecter](www/public/assets/img/Deroulantconnecter.jpg)
+![Maquettes Menu Déroulant Connecter](www/public/assets/img/BurgerCo.jpg)
 ## Page connexion
 ![Maquettes Connexion](www/public/assets/img/connexion.jpg)
 ## Page inscription
