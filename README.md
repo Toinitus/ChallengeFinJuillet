@@ -87,8 +87,6 @@ Have fun Enjoy !
 ![Maquette Full Accueil Deco](www/public/assets/img/FullAccueilHautDeco.jpg)
 ## Vue du haut de la page home connecter
 ![Maquette Full Accueil Co](www/public/assets/img/FullAccueilHautCo.jpg)
-## Vue de la home une fois scroll
-![Maquette Full Accueil Scroll](www/public/assets/img/FullVueHomeScroll.jpg)
 ## Page de connexion
 ![Maquette Full Login](www/public/assets/img/FullLogin.jpg)
 ## Page Inscription
