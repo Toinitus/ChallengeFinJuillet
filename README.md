@@ -97,10 +97,8 @@ Have fun Enjoy !
 ![Maquette Full Pas d'Equipe](www/public/assets/img/FullPasEquipe.jpg)
 ## Page de  l'equipe
 ![Maquette Full Equipe](www/public/assets/img/FullGroupe.jpg)
-## Page de don
-![Maquette Full Don](www/public/assets/img/FullDon.jpg)
-## Page du footer
-![Maquette Full Footer](www/public/assets/img/FullFooter.jpg)
+## Page de don et footer
+![Maquette Full Don](www/public/assets/img/FullDonFooter.jpg)
 
 
 # Precision a donner
